@@ -129,6 +129,8 @@ section.about .social{
     display:flex;
 }
 section.about .social a{
+    color: #FFFFFF;
+    text-decoration: none;
     background:var(--ternary);
     display:flex;
     align-items:center;
